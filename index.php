@@ -7,7 +7,7 @@ include 'TrainingCentres.php';
 include 'Subjects.php';
 
 
-$bot_token = '5203529331:AAG-kVROA7OhcwTuX4SujxhopgJmJLKobOc';
+$bot_token = '';
 
 
 $telegram = new Telegram($bot_token);
